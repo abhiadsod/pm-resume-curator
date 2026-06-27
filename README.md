@@ -72,17 +72,6 @@ pm-resume-curator/
 
 ---
 
-## Installing as a Claude Skill (Optional)
-
-If you use Claude and want this as a persistent skill:
-
-1. Download the `.skill` file from the release.
-2. In Claude, go to **Settings → Skills → Install from file**.
-3. Upload the `.skill` file.
-4. The PM Resume Curator is now always available — just start a conversation with your Candidate Profile and a JD.
-
----
-
 ## What You Get in Every Resume Session
 
 - **PM Persona Decoder** — identifies the PM archetype the JD is targeting
